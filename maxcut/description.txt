@@ -1,0 +1,17 @@
+Max-Cut is an optimization problem that involves dividing the
+nodes (or vertices) of a graph into two disjoint groups, with the goal
+of maximizing the number of edges that connect nodes from different groups.
+
+In simple terms, imagine you have a network of friends, and you want to divide them
+into two separate groups for two different events. Each connection (edge) between
+friends represents a situation where one friend prefers to attend the other friend's
+event. The Max-Cut problem seeks to divide the friends into two groups in such a way
+that the maximum number of these preferences are satisfied.
+
+The Max-Cut problem is known to be NP-hard, which means that finding an optimal
+solution can be computationally difficult as the size of the graph increases.
+However, quantum algorithms, like the Quantum Approximate Optimization Algorithm
+(QAOA), have the potential to solve such problems more efficiently than classical
+algorithms.
+
+(not written by me)
